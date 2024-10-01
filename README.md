@@ -1,4 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarixum)](https://github.com/anuraghazra/github-readme-stats)
 <!--<h1 align="center">...</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from ...</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
