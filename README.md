@@ -14,7 +14,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/>
   </a>
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Crystal_logo.svg" alt="crystal" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/crystal/crystal.png?size=48" alt="crystal" width="40" height="40"/>
   </a>
   <a href="https://dlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/D_Programming_Language_logo.svg" alt="d" width="40" height="40"/>
