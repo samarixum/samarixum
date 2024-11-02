@@ -23,7 +23,7 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/9a726b18911e4f631a91054933e7b0c2c66af964/topics/elixir/elixir.png" alt="elixir" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png" alt="elixir" width="40" height="40"/>
   </a>
   <a href="https://www.erlang.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/153393?s=200&v=4" alt="erlang" width="40" height="40"/>
