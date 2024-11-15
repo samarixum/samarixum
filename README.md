@@ -1,3 +1,6 @@
+<img height=200 align="center" src="https://count.getloli.com/@samarixum.github.readme?name=samarixum.github.readme&theme=booru-lisu&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samarixum" />
 </a>
