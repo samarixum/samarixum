@@ -1,3 +1,4 @@
+
 <p> number of page loads sinse 15-11-24 :: 1:49:00 </p>
 <img height=200 align="center" src="https://count.getloli.com/@samarixum.github.readme?name=samarixum.github.readme&theme=booru-lisu&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 
@@ -6,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samarixum" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=8&card_width=320&exclude_repo=dlang_ui" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=20&card_width=320&exclude_repo=dlang_ui" />
 </a>
 
 
