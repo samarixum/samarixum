@@ -34,7 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png" alt="elixir" width="40" height="40"/>
+    <img src="https://elixir-lang.org/favicon.ico" alt="elixir" width="40" height="40"/>
   </a>
   <a href="https://www.erlang.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/153393?s=200&v=4" alt="erlang" width="40" height="40"/>
@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="julia" width="40" height="40"/>
+    <img src="./julialang-logo.svg" alt="julia" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/>
