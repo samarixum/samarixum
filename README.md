@@ -48,14 +48,8 @@
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="40" height="40"/>
   </a>
-  <a href="https://hacklang.org/" target="_blank" rel="noreferrer">
-    <img src="https://hacklang.org/img/hack.svg" alt="hack" width="40" height="40"/>
-  </a>
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-  </a>
-  <a href="https://www.jsoftware.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.jsoftware.com/images/jblue.png" alt="j" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
