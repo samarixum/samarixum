@@ -91,7 +91,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby" width="40" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/>
+    <img src="./rust-logo.svg" alt="rust" width="40" height="40"/>
   </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala" width="40" height="40"/>
