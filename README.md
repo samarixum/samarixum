@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samarixum" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=20&card_width=270&exclude_repo=dlang_ui" />
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=20&card_width=370&exclude_repo=dlang_ui" />
 </a>
 
 
