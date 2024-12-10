@@ -1,4 +1,11 @@
 
+  <style>
+    section {
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+
 <section style="display: grid;">
   <section style="display: flex;">
     <a href="https://count.getloli.com">
