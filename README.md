@@ -1,28 +1,13 @@
-
-  <style>
-    section {
-      color: red;
-      font-weight: bold;
-    }
-  </style>
-
-<section style="display: grid;">
-  <section style="display: flex;">
+<section style="display: none">
+  <section>
+    <p> number of page loads sinse 15-11-24 :: 1:49:00 </p>
     <a href="https://count.getloli.com">
-      <p> number of page loads sinse 15-11-24 :: 1:49:00 </p>
       <img height=200 align="center" src="https://count.getloli.com/@samarixum.github.readme?name=samarixum.github.readme&theme=booru-lisu&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
     </a>
   </section>
-  
   <section>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samarixum" />
-    </a>
-  </section>
-  
-  <section>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=999&card_width=333&exclude_repo=dlang_ui" />
+      <img height=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=999&card_width=333&theme=radical" />
     </a>
   </section>
   
@@ -132,4 +117,10 @@
       </a>
     </p>
   </section>
+    <section>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=168 align="left" src="https://github-readme-stats.vercel.app/api?username=samarixum&show_icons=true&theme=radical" />
+    </a>
+  </section>
+  
 </section>
