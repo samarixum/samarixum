@@ -5,17 +5,9 @@
       <img height=200 align="center" src="https://count.getloli.com/@samarixum.github.readme?name=samarixum.github.readme&theme=booru-lisu&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
     </a>
   </section>
-  <section>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=999&card_width=333&theme=radical" />
-    </a>
-  </section>
-  
+
   <section>
     <p align="left">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
       </a>
@@ -117,6 +109,12 @@
       </a>
     </p>
   </section>
+  <section>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarixum&layout=compact&langs_count=999&card_width=333&theme=radical" />
+    </a>
+  </section>
+  
     <section>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=168 align="left" src="https://github-readme-stats.vercel.app/api?username=samarixum&show_icons=true&theme=radical" />
